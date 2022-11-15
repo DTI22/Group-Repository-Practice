@@ -1,13 +1,32 @@
 h1{
     
     font-family: 'Sono', sans-serif;
-
+    padding-top: 50px;
+    padding-bottom: 35px;
 }
+
+h3{
+    font-family: 'Sono', sans-serif;
+    padding-bottom: 2%;
+}
+
 body{
     background-color:powderblue
     
+
+
 }
+
+
 p{
     font-family: 'Sono', sans-serif;
+    line-height: 175%;
+    padding-bottom: 35px;
+    width: 50%;
+
+}
+
+img{
+    padding-bottom: 50px;
 
 }
